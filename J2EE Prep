@@ -1,0 +1,140 @@
+System
+Security
+Integrations
+Performance
+Scalability
+Memory management
+Java
+Core java
+Compilation
+Switch cases
+String Immutable
+String Builder is faster than String, String Buffer
+Static Keyword, Singleton factory design, Volatile
+Inner classes
+Final Keyword, Variable, method and Class level
+Constructor
+Oops principles
+Abstract, Interface, Inheritance, Polymorphism.
+Exception Handling
+What is the base class for Exception handling?
+Try {
+} Catch() {
+}
+Memory allocation  (Heap, Stack, code and static)
+Multithreading
+Synchronous, Asynchronous
+Constructor vs Setter
+Need for Serialization?
+ 
+
+Collections/Data Structures
+HashMap, LinkedHashMap, HashSet, Hash table, TreeSet,
+HashCode and Equals
+Set stores Objects, Map stores as Key value pair
+Keys are unique and Values can be duplicated.
+TreeMap, HashMap and LinkedHashMap are classes.
+LinkedHashMap offers 0(1) lookup and insertion. Keys are ordered by their insertion order. It is implemented by doubly-linked buckets.
+TreeMap offers O(log N) lookup and insertion. Keys are ordered, so if you need to iterate through the keys in sorted order, you can. This means that keys must implement the Comparable interface. TreeMap is implemented by a Red-Black Tree.
+ArrayList, LinkedList
+Comparable interface and comparator interface
+Comparable object can be compared itself with instances of same class - Sorting
+Generics
+Object Fields
+ 
+
+Java 8
+Streams
+Abstract function
+Functional interface
+Anonymous class
+Functionalities (Filters, foreach, map )
+Which is faster map vs streams vs parallel streams
+Optional class for Null check
+Design patterns
+Singleton pattern
+Prototype
+Factory Method pattern
+Proxy pattern
+Template pattern
+ 
+
+2. UI
+
+JavaScript.
+== vs ===
+Angular js advantages?
+ 
+
+ 
+
+3. Database
+
+CRUD
+JOINS
+GROUP BY
+MAX
+ORDER BY
+Functions --> Collect
+Procedures
+Triggers
+ 
+
+4. Design
+
+API Design/URI/Top Bottom/Bottom up
+Web application design approach
+ 
+
+5. DevOps
+
+Cloud Dashboards
+Docker Containerization
+Yaml files/Servicemesh
+Kubernetes cluster
+ 
+
+6. Technologies
+
+Kafka
+What is Kafka producer and consumer?
+What is topic?
+What is partition?
+Difference between Queue and Topic?
+ 
+
+Spring boot
+Diff Request param vs Path Param?
+Life cycle of Spring and Spring bean?
+
+ 
+
+Spring Security implementation - using spring boot?
+Aspect Oriented programming?
+What is Spring IOC Container?
+ 
+
+Servlet
+MVC Design pattern?
+ 
+
+REST API
+How to define an endpoint?
+What are the rest methods?
+How to design REST Api.
+Status code
+Cache
+Redis
+ECache
+ 
+
+7.Keywords
+
+Cluster
+Component
+Node
+Package
+Tool
+Scalability
+Performance
+Maintenance
