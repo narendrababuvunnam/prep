@@ -17,7 +17,8 @@ Final Keyword, Variable, method and Class level
 Constructor
 Oops principles
 Abstract, Interface, Inheritance, Polymorphism.
-Exception Handling
+Exception Handling.
+  Class Not found exception is a Run time exception.
 What is the base class for Exception handling?
 Try {
 } Catch() {
@@ -27,6 +28,8 @@ Multithreading
 Synchronous, Asynchronous
 Constructor vs Setter
 Need for Serialization?
+JDK, JRE, JVM.JIT
+Class Loading
  
 
 Collections/Data Structures
